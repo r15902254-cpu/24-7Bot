@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BuLuBuLUmc.aternos.me",
-    "port": 40030,
+    "ip": "LAVA_SMP1.aternos.me",
+    "port": 33682,
     "version": "1.20.1",
     "try-creative": false
   },
